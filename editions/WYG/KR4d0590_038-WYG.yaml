@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4d0590/WYG/v1/juan/38
+seq: 38
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 西
+  hash: sha256:b9f0c815459caa83d43d49643d76e70468a1306ad668d3a5e0759bedb5fb1f1d
+metadata:
+  title: 夷白齋藁
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-12 01:27:50.731467'
+  source:
+    repository: kanripo
+    path: KR4d0590/KR4d0590_038.txt
+hash: sha256:70c674f604c2992a5fcc5280f8e2ab8a337ba4df355a97e709a1ea3c1c63dd6f
