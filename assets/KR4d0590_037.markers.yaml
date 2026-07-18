@@ -244,6 +244,7 @@ markers:
   - {type: page-break, offset: 126, content: '', id: KR4d0590_WYG_036-10b, image: WYG1222/WYG1222-0361b.png}
   - {type: punctuation, offset: 127, content: (, id: KR4d0590_krp_037-bkkpn1}
   - {type: variant, offset: 127, length: 2, content: 并序, WYG: 又推本其說書之其詩曰客有談天姓黄氏沛若銀河瀉秋水五星厯厯方寸間指掌人生究終始曽將異術干王公一過冀北凡馬􅆰識人須識貧賤中豈以世態論窮通九重方貴凌雲賦我獨胡為守環堵便將出處問黃生不用長安尋季生}
+  - {type: voice, offset: 127, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 129, content: ), id: KR4d0590_krp_037-bkkpn2}
   - {type: 'kr:newline', offset: 129, content: '
 
@@ -994,4 +995,4 @@ markers:
 
       ', id: KR4d0590_krp_037-bkkkrnewl169}
   back: []
-hash: sha256:a2bc37187ab638e945581e200ba1e0fd895806fdf2c57b133666d2b8623e7e8c
+hash: sha256:8bfb27e00b827d2cf13e41e4a9d0c2f1555f3abe50c4cb86a7ed8a83259f4d9b

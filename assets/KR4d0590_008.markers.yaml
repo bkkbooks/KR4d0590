@@ -864,6 +864,7 @@ markers:
       ', id: KR4d0590_krp_008-bkkkrnewl106}
   - {type: line-break, offset: 1546, content: '', id: KR4d0590_SBCK_008-5a03}
   - {type: punctuation, offset: 1560, content: (, id: KR4d0590_krp_008-bkkpn1}
+  - {type: voice, offset: 1560, length: 12, name: note, id: n1}
   - {type: variant, offset: 1565, length: 1, content: 嘗, WYG: 常}
   - {type: punctuation, offset: 1566, content: /, id: KR4d0590_krp_008-bkkpn2}
   - {type: punctuation, offset: 1572, content: ), id: KR4d0590_krp_008-bkkpn3}
@@ -1451,4 +1452,4 @@ markers:
   - {type: variant, offset: 2652, length: 0, content: '', WYG: 欽定四庫全書夷白齋稿巻九元陳基撰律詩七言次韻高}
   - {type: page-break, offset: 2652, content: '', id: KR4d0590_WYG_009-1a, image: WYG1222/WYG1222-0220a.png}
   back: []
-hash: sha256:357ae3187873f9b2a3e9164fd07e786e003ee43355202e4508d305e09b3b01dc
+hash: sha256:843838f235a9533db1c1861d08b0778bfdc1c0887a8084957b220ced57081e02
